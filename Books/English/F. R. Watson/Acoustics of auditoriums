@@ -1,0 +1,1603 @@
+﻿The Project Gutenberg eBook of Acoustics of auditoriums, by F. R.
+Watson
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Acoustics of auditoriums
+       University of Illinois Bulletin, Vol. XI, March 16, 1914, No. 29
+
+Author: F. R. Watson
+
+Release Date: February 11, 2023 [eBook #70013]
+
+Language: English
+
+Produced by: Charlie Howard and the Online Distributed Proofreading Team
+             at https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK ACOUSTICS OF
+AUDITORIUMS ***
+
+
+
+
+
+Transcriber’s Note: Italic text is enclosed in _underscores_; boldface
+text on the last page of the book is enclosed in =equals signs.= Other
+notes will be found after the footnotes.
+
+
+
+
+                    UNIVERSITY OF ILLINOIS BULLETIN
+
+                             ISSUED WEEKLY
+
+        Vol. XI              MARCH 16, 1914              No. 29
+
+  Entered as second-class matter Dec. 11, 1912, at the Post Office at
+             Urbana, Ill., under the Act of Aug. 24, 1912.
+
+
+                        ACOUSTICS OF AUDITORIUMS
+
+                                   BY
+                              F. R. WATSON
+
+                 [Illustration: UNIVERSITY OF ILLINOIS.
+                            CHARTERED 1867.]
+
+                            BULLETIN No. 73
+                     ENGINEERING EXPERIMENT STATION
+
+            PUBLISHED BY THE UNIVERSITY OF ILLINOIS, URBANA
+
+
+                          PRICE: TWENTY CENTS
+
+                             EUROPEAN AGENT
+                     CHAPMAN AND HALL, LTD., LONDON
+
+
+
+
+The Engineering Experiment Station was established by act of the
+Board of Trustees, December 8, 1903. It is the purpose of the Station
+to carry on investigations along various lines of engineering and
+to study problems of importance to professional engineers and to
+the manufacturing, railway, mining, constructional, and industrial
+interests of the State.
+
+The control of the Engineering Experiment Station is vested in the
+heads of the several departments of the College of Engineering. These
+constitute the Station Staff and, with the Director, determine the
+character of the investigations to be undertaken. The work is carried
+on under the supervision of the Staff, sometimes by research fellows as
+graduate work, sometimes by members of the instructional staff of the
+College of Engineering, but more frequently by investigators belonging
+to the Station corps.
+
+The results of these investigations are published in the form of
+bulletins, which record mostly the experiments of the Station’s own
+staff of investigators. There will also be issued from time to time
+in the form of circulars, compilations giving the results of the
+experiments of engineers, industrial works, technical institutions, and
+governmental testing departments.
+
+The volume and number at the top of the title page of the cover are
+merely arbitrary numbers and refer to the general publications of the
+University of Illinois; _either above the title or below the seal
+is given the number of Engineering Experiment Station bulletin or
+circular, which should be used in referring to these publications_.
+
+For copies of bulletins, circulars, or other information address the
+Engineering Experiment Station, Urbana, Illinois.
+
+[Illustration: FIG. 1. AUDITORIUM, UNIVERSITY OF ILLINOIS.]
+
+
+
+
+ACOUSTICS OF AUDITORIUMS
+
+AN INVESTIGATION OF THE ACOUSTICAL PROPERTIES OF THE AUDITORIUM AT THE
+UNIVERSITY OF ILLINOIS.
+
+
+
+
+I. INTRODUCTION.
+
+
+Much concern has arisen in late years in the minds of architects
+because of the faulty acoustics that exist in many auditoriums. The
+prevalence of echoes and reverberations with the consequent difficulty
+in hearing and understanding on the part of the auditor defeats the
+purpose of the auditorium and diminishes its value.
+
+The Auditorium at the University of Illinois presents such a case. The
+building is shaped nearly like a hemisphere, with several large arches
+and recesses to break up the regularity of its inner surface. The
+original plans of the architect were curtailed because of insufficient
+money appropriated for the construction. The interior of the hall,
+therefore, was built absolutely plain with almost no breaking up of the
+large, smooth wall surfaces; and, at first, there were no furnishings
+except the seats and the cocoa matting in the aisles. The acoustical
+properties proved to be very unsatisfactory. A reverberation or undue
+prolongation of the sound existed, and in addition, because of the
+large size of the room and the form and position of the walls, echoes
+were set up.
+
+If an observer stood on the platform and clapped his hands, a veritable
+chaos of sound resulted. Echoes were heard from every direction and
+reverberations continued for a number of seconds before all was still
+again. Speakers found their utterances thrown back at them, and
+auditors all over the house experienced difficulty in understanding
+what was said. On one occasion the University band played a piece which
+featured a xylophone solo with accompaniment by the other instruments.
+It so happened that the leader heard the echo more strongly than the
+direct sound and beat time with it. Players near the xylophone kept
+time to the direct sound, while those farther away followed the echo.
+The confusion may well be imagined.
+
+Thus it seemed that the Auditorium was doomed to be an acoustical
+horror; that speakers and singers would avoid it, and that auditors
+would attend entertainments in it only under protest. But the apparent
+misfortune was in one way a benefit since it provided an opportunity
+to study defective acoustics under exceptionally good conditions
+and led to conclusions that not only allowed the Auditorium to be
+improved but also indicate some of the pitfalls to be avoided in future
+construction of other halls.
+
+[Illustration: FIG. 2. PHOTOGRAPH OF INTERIOR. VIEW OF STAGE.]
+
+[Illustration: FIG. 3. PHOTOGRAPH OF INTERIOR. VIEW TOWARD BALCONY.]
+
+An investigation of the acoustical properties of the Auditorium was
+begun in 1908 and has continued for six years. It was decided at the
+outset not to use “cut and try” methods of cure, but to attack the
+problem systematically so that general principles could be found, if
+possible, that would apply not only to the case being investigated but
+to auditoriums in general. This plan of procedure delayed the solution
+of the problem, since it became necessary to study the theory of sound
+and carry out laboratory investigations at the same time that the
+complex conditions in the Auditorium were being considered. The author
+spent one year of the six abroad studying the theory of acoustics and
+inspecting various auditoriums.
+
+The main echoes in the Auditorium were located by means of a new method
+for tracing the path of sound, the time of reverberation was determined
+by Sabine’s method, and a general diagnosis of the acoustical defects
+was made. Hangings and curtains were installed in accordance with the
+results of the study so that finally the acoustical properties were
+improved.
+
+_Acknowledgment._--The author desires to express his great appreciation
+of the advice and encouragement given by President E. J. James,
+Supervising Architect J. M. White, and Professor A. P. Carman of
+the Physics Department. He desires also to acknowledge the material
+assistance cheerfully rendered by the workmen at the University, which
+contributed in no small degree to the successful solution of the
+problem.
+
+
+
+
+II. BEHAVIOR OF SOUND WAVES IN A ROOM.
+
+
+When a speaker addresses an audience, the sounds he utters proceed in
+ever widening spherical waves until they strike the boundaries of the
+room. Here the sound is partly reflected, partly transmitted, and the
+rest absorbed. The amounts of reflection, absorption and transmission
+depend on the character of the walls. A hard, smooth wall reflects most
+of the sound so that but little is transmitted or absorbed. In the case
+of a porous wall or a yielding wall, the absorption and transmission
+are greater, and the reflection is less. After striking a number of
+reflecting surfaces, the energy is used up and the sound dies out.
+
+The reflection of sound produces certain advantages and disadvantages
+for the acoustics. When it is considered that sound travels about 1100
+feet a second it may be seen that a room of ordinary size is almost
+immediately filled with sound because of the many reflections. In a
+room 40 feet square, for instance, the number of reflections per second
+between opposite walls is 1100 ÷ 40, or approximately 27. The number is
+really greater than this, since the sound that goes into the corners
+is reflected much more frequently than out in the middle where the
+distances between walls are greater. The result is that the sound mixes
+thoroughly in all parts of the room so as to give the same average
+intensity; that is, the sound is of the same average _loudness_ for all
+auditors, even for those in the remotest corners.
+
+Though the reflection of sound has the advantage of fulfilling the
+conditions for loudness, it introduces at the same time possibilities
+for setting up defective acoustics. For instance, when the walls of the
+room are hard and smooth very little energy is lost at each impact of
+the sound and many reflections take place before it finally dies out.
+This slow decadence of the sound, or _reverberation_ as it is called,
+is the most common defect in auditoriums.
+
+If a speaker talks in such a hall the auditors have difficulty in
+understanding. Each sound, instead of dying out quickly, persists for
+some time so that the succeeding words blend with their predecessors
+and set up a mixture of sounds which produces confusion. The cure for
+the trouble is brought about by the introduction of materials such as
+carpets, tapestries, and the like, which act as absorbers of sound and
+reduce the time of reverberation.
+
+When music is played in an auditorium with a prolonged reverberation,
+the tones following one another blend and produce the same effect as
+that of a piano when played with the loud pedal in use. A reverberation
+is more advantageous for music than for speech, since the prolongation
+and blending of the musical tones is desired, but the mixing of the
+words in a speech is a distinct disadvantage. When curing this defect
+for halls used for both music and speaking, a middle course must be
+steered, so that the reverberation is made somewhat long for speaking
+and somewhat short for music, yet fairly satisfactory for both.
+
+Going back to the consideration of the reflection of sound, it is found
+that another defect may be produced, namely, an _echo_. This is the
+case when a wall at some distance reflects the sound to the position
+of the auditor. He hears the sound first from the speaker, then later
+by reflection from the wall. The time interval between the direct and
+reflected sound must be great enough to allow two distinct impressions
+to be made. This time is about 1/15 of a second, but varies with the
+acuteness of the observer. The farther off the wall is, the greater is
+the time interval and the more pronounced is the echo. If the wall is
+not very distant, the time interval is too short to allow two distinct
+impressions to be made, and the effect on the auditor is then much the
+same as if his neighbor at his side speaks the words of the discourse
+in his ear at the same time that he gets them directly from the
+speaker. In case the reflecting wall is curved so as to focus the sound
+the echoes are much more pronounced. A curved wall wherever it may be
+placed in an auditorium is thus always a menace to good acoustics.
+
+There are other actions of the sound that may result in acoustical
+defects. The phenomena of _resonance_, for instance, may cause trouble.
+Suppose that the waves of sound impinge on an elastic wall, not too
+rigid. If these waves are timed right they set the wall in vibration in
+the same way that the bell ringer causes a bell to ring by a succession
+of properly timed pulls on the bell rope. The wall of the room will
+then vibrate under the action of this sound with which it is in tune
+and will reinforce it. Now suppose a band is playing in a room. Certain
+tones are reinforced, while the others are not affected. The original
+sound is then distorted. The action is the same on the voice of the
+speaker. The sounds he utters are complex and as they reach the walls
+certain components are reinforced and the quality of the sound is
+changed. This action of resonance may also be caused by the air in a
+room. Each room has a definite pitch to which it responds, the smaller
+the volume of the room the higher being the pitch. A large auditorium
+would respond to the very low pitch of the bass drum. In small rooms
+and alcoves the response is made to higher pitched tones, as may be
+observed by singing the different notes of the scale until a resonance
+is obtained.
+
+Another action of sound causes the _interference_ of waves. Thus the
+reflected waves may meet the oncoming ones and set up concentrations of
+sound in certain positions and a dearth of sound in others.
+
+Summing up, it is seen that the effects of sound which may exist in
+a room are _loudness_, _reverberation_, _echoes_, _resonance_, and
+_interference_, and that the most common defects are reverberation and
+echoes. We now turn to the discussion of the methods of cure.
+
+
+
+
+III. METHODS OF IMPROVING FAULTY ACOUSTICS.
+
+
+A. REVERBERATION AND ITS CURE.
+
+Everyone has doubtless observed that the hollow reverberations in
+an empty house disappear when the house is furnished. So, in an
+auditorium, the reverberation is lessened when curtains, tapestries,
+and the like are installed in sufficient numbers. The reason for this
+action is found when we inquire what ultimately becomes of the sound.
+
+Sound is a form of energy and energy can not be destroyed. When it
+finally dies out, the sound must be changed to some other form of
+energy. In the case of the walls of a room, for instance, it has been
+shown in a preceding paragraph that the sound may be changed into
+mechanical energy in setting these walls in vibration. Again, some
+of the sound may pass out through open windows and thus disappear.
+The rest of the sound, according to Lord Rayleigh, is transformed by
+friction into heat. Thus[1] a high pitched sound, such as a hiss,
+before it travels any great distance is killed out by the friction of
+the air. Lower pitched sounds, on reaching a wall, set up a friction
+in the process of reflection between the air particles and the wall so
+that some of the energy is converted into heat.[2] The amount of sound
+energy thus lost is small if the walls are hard and smooth. The case is
+much different, however, if the walls are rough and porous, since it
+appears that the friction in the pores dissipates the sound energy into
+heat. In this connection, Lamb[3] writes: “In a sufficiently narrow
+tube the waves are rapidly stifled, the mechanical energy lost being
+of course converted into heat. * * * * When a sound wave impinges on a
+slab which is permeated by a large number of very minute channels, part
+of the energy is lost, so far as the sound is concerned, by dissipation
+within these channels in the way just explained. The interstices in
+hangings and carpets act in a similar manner, and it is to this cause
+that the effect of such appliances in deadening echoes in a room is
+to be ascribed, a certain proportion of the energy being lost at each
+reflection. It is to be observed that it is only through the action of
+true dissipative forces, such as viscosity and thermal conduction, that
+sound can die out in an enclosed space, no mere modifications of the
+waves by irregularities being of any avail.”
+
+It should be pointed out in this connection that any mechanical
+breaking up of the sound by relief work on the walls or by obstacles in
+the room will not primarily diminish the energy of the sound. These
+may break up the regular reflection and eliminate echoes, but the sound
+energy as such disappears only when friction is set up.
+
+The following quotation from Rayleigh[4] emphasizes these conclusions:
+“In large spaces, bounded by non-porous walls, roof, and floor,
+and with few windows, a prolonged resonance seems inevitable. The
+mitigating influence of thick carpets in such cases is well known. The
+application of similar material to the walls and roof appears to offer
+the best chance of further improvement.”
+
+_Experimental Work on Cure of Reverberation._--The most important
+experimental work in applying this principle of the absorbing power of
+carpets, curtains, etc., has been done by Professor Wallace C. Sabine
+of Harvard University.[5] In a set of interesting experiments lasting
+over a period of four years, he was able to deduce a general relation
+between _t_, the time of reverberation, _V_, the volume of the room,
+and _a_, the absorbing power of the different materials present. Thus:
+
+                       _t_ = 0.164 _V_ ÷ _a_ (1)
+
+For good acoustical conditions, that is, for a short time of
+reverberation, the volume _V_ should be small and the absorbing
+materials, represented by _a_, large. This is the case in a small room
+with plenty of curtains and rugs and furniture. If, however, the volume
+of the room is great, as in the case of an auditorium, and the amount
+of absorbing materials small, a troublesome reverberation will result.
+
+Professor Sabine determined the absorbing powers of a number of
+different materials. Calling an open window a perfect absorber of
+sound, the results obtained may be written approximately as follows:
+
+    One square meter of open window space             1.000
+    One square meter of glass, plaster, or brick       .025
+    One square meter of heavy rugs, curtains, etc.     .25
+    One square meter of hair felt, 1 inch thick        .75
+    One square meter of audience                       .96
+
+These values, together with the formula, allow a calculation to be made
+in advance of construction for the time of reverberation. This pioneer
+work cleared the subject of architectural acoustics from the fog of
+mystery that hung over it and allowed the essential principles to be
+seen in the light of scientific experiment.
+
+In a later investigation[6] Sabine showed that the reverberation
+depended also on the pitch of sound. As a concrete example, the high
+notes of a violin might be less reverberant with a large audience
+than the lower tones of the bass viol, although both might have the
+same reverberation in the room with no audience. Again, the voice of
+a man with notes of low pitch might give satisfactory results in an
+auditorium while the voice of a woman with higher pitched notes would
+be unsatisfactory.
+
+These considerations show that the acoustics in an auditorium vary with
+other factors than the volume of the room and the amount of absorbing
+material present. The audience may be large or small, the speaker’s
+voice high or low, the entertainment a musical number or an address.
+The best arrangement for good acoustics is then a compromise where the
+average conditions are satisfied. The solution offered by Professor
+Sabine is such an average one, and has proved satisfactory in practice.
+
+The problem of architectural acoustics has been attacked experimentally
+by other workers. Stewart[7] proposed a cure for the poor acoustical
+conditions in the Sibley Auditorium at Cornell University. His
+experiments confirmed the work of Sabine. Marage[8], after
+investigating the properties of six halls in Paris, approved Sabine’s
+results and advocated a time of reverberation of from ½ to 1 second for
+the case of speech.
+
+_Formulae for Reverberation of Sound in a Room._--On the theoretical
+side, Sabine’s formula has been developed by Franklin,[9] who obtained
+the relation _t_ = 0.1625 _V_ ÷ _a_, an interesting confirmation, since
+Sabine’s experimental value for the constant was 0.164.
+
+A later development has been given by Jäger,[10] who assumes for a room
+whose dimensions are not greater than about 60 feet, that the sound,
+after filling the room, passes equally in all directions through any
+point, and that the average energy is the same in different parts of
+the room. By using the theory of probability and considering that a
+beam of sound in any direction may be likened to a particle with a
+definite velocity, he was able to deduce Sabine’s formula and write
+down the factors that enter into the constants. Applying his results to
+the case of reflection of sound from a wall, he showed that sound would
+be reflected in greater volume when the mass of the wall was increased
+and the pitch of the sound made higher. He showed also that when sound
+impinges on a porous wall, more energy is absorbed when the pitch of
+the sound is high than when it is low, since the vibrations of the air
+are more frequent, and more friction is introduced in the interstices
+of the material.
+
+
+B. ECHOES AND THEIR REMEDY.
+
+An echo is set up by a reflecting wall. If an observer stands some
+distance from the front of a cliff and claps his hands, or shouts, he
+finds that the sound is returned to him from the cliff as an echo. So,
+in an auditorium, an auditor near the speaker gets the sound first
+directly from the speaker, then, an instant later, a strong repetition
+of the sound by reflection from a distant wall. This echo is more
+pronounced if the wall is curved and the auditor is at the point where
+the sound is focused.
+
+To cure such an echo, two methods may be considered. One method
+consists in changing the form of the wall so that the reflected sound
+no longer sets up the echo. That is, either change the angle of the
+wall, so that the reflected sound is sent in a new direction where it
+may be absorbed or where it may reinforce the direct sound without
+producing any echoes, or else modify the surface of the wall by relief
+work or by panels of absorbing material, so that the strong reflected
+wave is broken up and the sound is scattered. The second method is to
+make the reflecting wall a “perfect” absorber, so that the incident
+sound is swallowed up and little or none reflected. These methods
+have been designated as “surgical” and “medicinal” respectively. Each
+method has its disadvantages. Changing the form of the walls in an
+auditorium is likely to do violence to the architectural design. On
+the other hand, there are no perfect absorbers, except open windows,
+and these can seldom be applied. The cure in each case is, then, a
+matter of study of the special conditions of the auditorium. Usually
+a combination of the surgical and the medicinal cures is adopted. For
+instance, coffering a wall so that panels of absorbing material may be
+introduced has been found to work well in bettering the acoustics, and
+also, in many cases, it fits in with the architectural features.
+
+
+C. POPULAR CONCEPTION OF CURES.--USE OF WIRES AND SOUNDING BOARDS.
+
+A few words should be written concerning the popular notion that
+wires and sounding boards are effective in curing faulty acoustics.
+Experiments and observations show that wires are of practically no
+benefit, and sounding boards can be used only in special cases. Wires
+stretched in a room scarcely affect the sound, since they present too
+small a surface to disturb the waves. They have much the same effect on
+sound waves that a fish line in the water has on water waves. The idea
+has, perhaps, grown into prominence because of the action of a piano
+in responding to the notes of a singer. The piano has every advantage
+over a wire in an auditorium. It has a large number of strings tuned
+to different pitches so that it responds to any note sung. It also has
+a sounding board that reinforces strongly the sound of the strings.
+Finally, the singer is usually near the piano. The wire in the
+auditorium responds to only one tone of the many likely to be present,
+it has no sounding board, and the singer is some distance away. But
+little effect, therefore, is to be expected.
+
+The author has visited a number of halls where wires have been
+installed, and has yet to find a case where pronounced improvement has
+resulted.[11] Sabine[12] cites a case where five miles of wire were
+stretched in a hall without helping the acoustical conditions. It is
+curious that so erroneous a conception has grown up in the public mind
+with so little experimental basis to support it.
+
+_Sounding Boards._--Sounding boards or, more properly, reflecting
+boards, have value in special cases. Some experiments are described
+later where pronounced effects were obtained. The sounding board should
+be of special design to fit the conditions under which it is to be used.
+
+_Modeling New Auditoriums after Old Ones with Good Acoustics._--Another
+suggestion often made is for architects to model auditoriums after
+those already built that have good acoustical properties. It does not
+follow that halls so modeled will be successful, since the materials
+used in construction are not the same year after year. For instance,
+a few years ago it was the usual custom to put lime plaster on wooden
+lath; now it is frequently the practice to put gypsum plaster on metal
+lath, which forms an entirely different kind of a surface. This latter
+arrangement makes hard, non-porous walls which absorb but little sound,
+and thus aggravate the reverberation. Further, a new hall usually is
+changed somewhat in form from the old one, to suit the ideas of the
+architect, and it is very likely that the changes will affect the
+acoustics.
+
+
+D. THE EFFECT OF THE VENTILATION SYSTEM ON THE ACOUSTICS.
+
+At first thought it might seem that the ventilation system in a room
+would affect the acoustical properties. The air is the medium that
+transmits the sound. It has been shown that the wind has an action
+in changing the direction of propagation of sound.[13] Sound is also
+reflected and refracted at the boundary of gases that differ in density
+and temperature.[14] It is found, however, that the effect of the
+usual ventilation currents on the acoustics in an auditorium is small.
+The temperature difference between the heated current and the air in
+the room is not great enough to affect the sound appreciably, and the
+motion of the current is too slow and over too short a distance to
+change the action of the sound to any marked extent.[15]
+
+Under special circumstances, the heating and ventilating systems may
+prove disadvantageous.[16] A hot stove or a current of hot air in the
+center of the room will seriously disturb the action of sound. Any
+irregularity in the air currents so that sheets of cold and heated air
+fluctuate about the room will also modify the regular action of the
+sound and produce confusion. The object to be striven for is to keep
+the air in the room as homogeneous and steady as possible. Hot stoves,
+radiators, and currents of heated air should be kept near the walls and
+out of the center of the room. It is of some small advantage to have
+the ventilation current go in the same direction that the sound is to
+go, since a wind tends to carry the sound with it.
+
+
+
+
+IV. THE INVESTIGATION IN THE AUDITORIUM AT THE UNIVERSITY OF ILLINOIS.
+
+
+A. PRELIMINARY WORK.
+
+As already stated, a chaos of sound was set up when an observer in
+the Auditorium spoke or shouted or clapped his hands. Both echoes and
+reverberations were present and could be heard in all parts of the
+room, though the echoes seemed to be strongest on the stage and in
+the balcony. The prospects for bettering the acoustics were not very
+encouraging. Luckily, the cure for the reverberation was fairly simple,
+since Sabine’s method gave a definite procedure that could be applied
+to this case. The cure for the echo, however, was yet to be found. It
+was first necessary to find out which walls set up the defect.
+
+The attempt to locate echoes by generating a sound and listening with
+the ear met with only partial success. The ear is sensitive enough but
+becomes confused when many echoes are present, coming apparently from
+every direction, so that the evidence thus obtained is not altogether
+conclusive. It became apparent that the successful solution lay in
+fixing the attention on the sound going in a particular direction and
+finding out where it went after reflection; then tracing out the path
+in another particular direction, and so on until the evidence obtained
+gave some hint of the general action of the sound.
+
+[Illustration: FIG. 4. WATCH AS SOURCE OF SOUND, BACKED BY A CONCAVE
+REFLECTOR.]
+
+The first step in the application of this principle was to use a
+faint sound which could not be heard at any great distance unless
+reinforced in some way. The ticks of a watch were directed, by means
+of a reflector (Fig. 4) to certain walls suspected of giving echoes.
+Using the relation that the angle of incidence equals the angle of
+reflection, the reflected sound was readily located, and the watch
+ticks heard distinctly after they had traveled a total distance as
+great as 70 to 80 feet from the source.
+
+In a later experiment, a metronome was used which gave a louder
+sound. It was enclosed in a sound-proof structure (Fig. 5) with only
+one opening, so that the sound could be directed by means of a horn.
+This method was suggested by the work of Gustav Lyon in the Hall of
+the Trocadero at Paris,[17] where a somewhat similar arrangement was
+used. The method was successful and verified the observations taken
+previously.
+
+[Illustration: FIG. 5. METRONOME AS SOURCE OF SOUND.]
+
+[Illustration: FIG. 6. ARC-LIGHT AS SOURCE OF SOUND.]
+
+Though the results obtained with the watch and metronome seemed
+conclusive, yet the observer was not always confident of the results. A
+further method was sought, and a more satisfactory one found by using
+an alternating current arc-light at the focus of a parabolic reflector
+(Fig. 6). In addition to the light, the arc gave forth a hissing sound,
+which was of short wave length and therefore experienced but little
+diffraction. The bundle of light rays was, therefore, accompanied by
+a bundle of sound, both coming from the same source and subject to
+the same law of reflection. The path of the sound was easily found by
+noting the position of the spot of light on the wall. The reflected
+sound was located by applying the relation that the angles of incidence
+and reflection are equal. The arc-light sound was intense and gave the
+observer confidence in results that was lacking in the other methods.
+To trace successive reflections, small mirrors were fastened to the
+reflecting walls so that the path of the reflected sound was indicated
+by the reflected light. A “diagnosis” of the acoustical troubles of the
+Auditorium was then made by this method.
+
+It should be noted here that the arc-light sound is not the same as the
+sounds of music or speech, these latter ones being of lower pitch and
+of longer wave length. It was, therefore, a matter of doubt whether the
+results obtained would hold also for the case of speech or music. Tests
+made by observers stationed in the Auditorium when musical numbers
+and speeches were rendered, however, verified the general conclusions
+obtained with the arc-light.
+
+It should be pointed out in this connection that there is an objection
+to applying the “ray” method of geometrical optics to the case of
+sound. It is much more difficult to get a ray of sound than it is to
+get a ray of light.[18] This is due to the difference in the wave
+lengths in the two cases. It appears that the waves are diffracted,
+or spread out, in proportion to their length, the longer waves being
+spread out to a greater extent. The short waves of light from the sun,
+for instance, as they come through a window mark out a sharp pattern
+on the floor, which shows that the waves proceed in straight lines
+with but little diffraction or spreading. Far different is it with
+the longer waves of sound. If the window is open, we are able to hear
+practically all the sounds from outdoors, even that of a wagon around
+the corner, although we may be at the other end of the room away from
+the window. The longer sound waves spread out and bend at right angles
+around corners, so that it is almost impossible to get a sound shadow
+with them. Furthermore, in the matter of reflection, it appears that
+the area of the reflecting wall must be comparable with the length of
+the waves being reflected. In the case of light, the waves are very
+minute, hence a mirror can be very small and yet be able to set up a
+reflection; but sound waves are of greater length, the average wave
+length of speech (45 cm.) being about 700 000 times longer than the
+wave length of yellow light (.00006 cm.), hence the reflecting surface
+must be correspondingly larger. An illustration will perhaps make
+this clearer. Suppose a post one foot square projects through a water
+surface. The small ripples on the water will be reflected easily from
+the post, but the large water waves pass by almost as if the post were
+not there. The reflecting surface must have an area comparable with
+the size of the wave if it is to cause an effective reflection. Relief
+work in auditoriums, if of small dimensions, will affect only the high
+pitched sounds, i. e., those of short wave length, while the low
+pitched sounds of long wave length are reflected much the same as from
+a rather rough wall. It is also shown that the area of the reflecting
+surface is dependent on its distance from the source of sound and from
+the observer; the greater these distances are the larger must be the
+reflecting surface.[19]
+
+These considerations all show that the reflection of sound is a
+complicated matter. The dimensions of a wall to reflect sound, or of
+relief work to scatter it, are determined by the wave length and by
+the various other factors mentioned. It should be said with caution
+that a “ray” of sound is reflected in a definite way from a small bit
+of relief work. We must deal with _bundles_ of sound, not too sharply
+bounded, and have them strike surfaces of considerable area in order to
+produce reflections with any completeness.
+
+[Illustration: FIG. 7. LONGITUDINAL SECTION SHOWING THE CHIEF
+CONCENTRATIONS OF SOUND, THE DIFFRACTION EFFECTS BEING DISREGARDED.]
+
+
+B. DETAILS OF THE ACOUSTICAL SURVEY IN THE AUDITORIUM.
+
+The general effect of the walls of the Auditorium on the sound may be
+anticipated by considering analogous cases in geometrical optics, but
+with the restrictions on “rays” described in the preceding paragraph.
+The sound does not actually confine itself to the sharp boundaries
+shown. The diagrams are intended to indicate the main effect of the
+sound in the region so bounded. Fig. 7 gives such an idea for the
+concentration of sound in the longitudinal section of the Auditorium.
+
+The plan followed in the experimental work was to anticipate the path
+of the sound as indicated in Fig. 7, then to verify the results with
+the arc-light reflector. Figs. 8 and 9 show the effect of the rear
+wall in the balcony in forming echoes on the stage. The speaker was
+particularly unfortunate, being afflicted with no less than ten echoes.
+
+[Illustration: FIG. 8. LONGITUDINAL SECTION SHOWING HOW SOUND IS
+RETURNED TO THE STAGE TO FORM AN ECHO.]
+
+[Illustration: FIG. 9. LONGITUDINAL SECTION SHOWING FORMATION OF ECHO
+ON THE STAGE.]
+
+The hard, smooth, circular wall bounding the main floor under the
+balcony gave echoes as shown in Fig. 10, the sound going also in the
+reverse direction of the arrows.
+
+[Illustration: FIG. 10. PLAN OF AUDITORIUM SHOWING ACTION OF REAR WALL
+ON THE SOUND.]
+
+[Illustration: FIG. 11. PLAN OF AUDITORIUM SHOWING CONCENTRATION OF
+SOUND BY THE REAR WALL.]
+
+[Illustration: FIG. 12. THIS FIGURE TAKEN WITH FIG. 9 SHOWS HOW AN ECHO
+IS SET UP ON THE STAGE.]
+
+A more comprehensive idea of the action of this wall is shown in Fig.
+11. This reflected sound was small in amount and therefore not a
+serious disadvantage.
+
+The cases cited were fairly easy to determine since the bundles of
+sound considered were confined closely to either a vertical or a
+horizontal plane for which the plans of the building gave some idea of
+the probable path of the sound. For other planes, the paths followed
+could be anticipated by analogy from the results already found. Fig. 12
+shows in perspective the development of the result expressed in Fig. 9.
+
+A square bundle of sound starts from the stage and strikes the
+spherical surface of the dome. After reflection, it is brought to a
+point focus, as shown, and spreads out until it strikes the vertical
+cylindrical wall in the rear of the balcony. This wall reflects it to a
+line focus, after which it proceeds to the stage. Auditors on all parts
+of the stage complained of hearing echoes.
+
+Referring to Fig. 7, it is seen that the arch over the stage reflects
+sound back to the stage. Fig. 13 shows in perspective the focusing
+action of this overhead arch. Fig. 14 shows the effect of the second
+arch. Some of this sound is reflected to the stage and to the seats in
+front of the stage; other portions, striking more nearly horizontally,
+are reflected to the side balconies. The echoes are not strong except
+for high pitched notes with short wave lengths, since the width of the
+arch is small.
+
+[Illustration: FIG. 13. PERSPECTIVE OF STAGE SHOWING FOCUSING ACTION OF
+ARCH ON SOUND.]
+
+[Illustration: FIG. 14. PERSPECTIVE OF STAGE SHOWING FOCUSING ACTION OF
+SECOND ARCH.]
+
+[Illustration: FIG. 15. TRANSVERSE SECTION SHOWING HOW MOST PRONOUNCED
+ECHOES ARE SET UP BY THE TWO CONCAVE SURFACES.]
+
+Passing now to the transverse section, Fig. 15, we find the most
+pronounced echoes in the Auditorium. If an observer generates a sound
+in the middle of the room directly under the center of the skylight,
+distinct echoes are set up. A bundle of sound passes to the concave
+surface which converges the sound to a focus, after which it spreads
+out again to the other concave surface and is again converged to a
+focus nearly at the starting point. The distance traveled is about
+225 feet, taking about ¼ second, so that the conditions are right for
+setting up a strong echo. This echo is duplicated by the sound which
+goes in the reverse of the path just described. Another echo, somewhat
+less strong, is formed by the sound that goes to the dome overhead
+and which is reflected almost straight back, since the observer is
+nearly at the center of the sphere of which the dome is a part. These
+echoes repeat themselves, for the sound does not stop on reaching the
+starting point but is reflected from the floor and repeats the action
+just described. As many as ten distinct echoes have been generated by a
+single impulse of sound.
+
+[Illustration: FIG. 16. ACTION OF SOUND IN CAUSING ECHO ON THE STAGE.]
+
+The echo shown in Fig. 15 is repeated in a somewhat modified form for
+a sound generated on the stage by a speaker. Fig. 16 shows the path
+taken by the sound. This echo is duplicated by the sound that goes in
+the reverse direction of the arrows, so the speaker is greeted from
+both sides. Fig. 17 is a perspective showing the path. The sound does
+not confine itself closely to a geometrical pattern, as shown in the
+picture, but spreads out by diffraction. The main effect is shown by
+the figure.
+
+[Illustration: FIG. 17. PERSPECTIVE SHOWING HOW AN ECHO IS FORMED ON
+THE STAGE BY TWO REFLECTIONS. DIFFRACTION EFFECTS ARE NOT CONSIDERED IN
+THIS DRAWING.]
+
+Thus far only the echoes that reached the stage have been described.
+Other echoes were found in other parts of the hall, and it seemed that
+few places were free from them. The side walls in the balcony, for
+instance, were instrumental in causing strong echoes in the rear of the
+balcony. Fig. 18 shows in perspective the action of one of these walls.
+These two surfaces were similar in shape and symmetrically placed. Each
+was the upper portion of a concave surface with its center of curvature
+in the center of the building under the dome. The general effect of
+the left hand wall was to concentrate the sound falling on it in the
+right hand seats in the balcony. Some of the sound struck the opposite
+wall and was reflected to the stage, as shown in Fig. 17. Auditors who
+sought the furthermost rear seats in the balcony to escape echoes were
+thus caught by this unexpected action of the sound. The right hand wall
+acted in a similar way to send the sound to the upper left balcony.
+
+[Illustration: FIG. 18. PERSPECTIVE SHOWING SOUND REFLECTED FROM
+CONCAVE WALL IN BALCONY. DIFFRACTION NOT CONSIDERED.]
+
+The dome surface concentrates most of its sound near the front of the
+central portion of the balcony and the ground floor in front of the
+balcony in the form of a caustic cone. Figs. 7, 9 and 11 give some
+conception of how a concentration of sound is caused by this spherical
+surface. The echo in the front portion of the balcony was especially
+distinct. On one occasion, in this place, the author was able to hear
+the speaker more clearly from the echo than by listening to the direct
+sound.
+
+Minor echoes were set up by the horizontal arch surfaces in the
+balcony. The sound from the stage was concentrated by reflection
+from these surfaces and then passed to a second reflection from the
+concave surfaces back of them. Auditors in the side balcony were thus
+disagreeably startled by having sound come from overhead from the rear.
+
+
+C. CONCLUSION DRAWN FROM THE ACOUSTICAL SURVEY.
+
+The results of the survey show that curved walls are largely
+responsible for the formation of echoes because they concentrate the
+reflected sound. It seems desirable, therefore, to emphasize the danger
+of using such walls unless their action is annulled by absorbing
+materials or relief work. Large halls with curved walls are almost sure
+to have acoustical defects.
+
+
+D. METHODS EMPLOYED TO IMPROVE THE ACOUSTICS.
+
+_Reflecting Boards._--The provisional cure was brought about gradually
+by trying different devices suggested by the diagnosis. In one set
+of experiments sounding boards of various shapes and sizes were
+used. A flat board about five feet square placed at an incline over
+the position of the speaker produced little effect. A larger canvas
+surface, about 12 by 20 feet, was not much better. A parabolic
+reflector, however, gave a pronounced effect. This reflector was
+mounted over a pulpit at one end of the stage and served to intercept
+much of the sound that otherwise would have gone to the dome and
+produced echoes. The path of the reflected sound was parallel to the
+axis of the paraboloid of which the reflector was a quarter section.
+There was no difficulty in tracing out the reflected sound. Auditors in
+the path of the reflected rays reported an echo, but auditors in other
+parts of the Auditorium were remarkably free from the usual troubles.
+The device was not used permanently, since many speakers objected to
+the raised platform. Moreover, it was not a complete cure, since it was
+not suited for band concerts and other events, where the entire stage
+was used. Another reflector similar in shape to the one just described
+is shown in Figs. 21 and 22.
+
+[Illustration: FIG. 19. REFLECTING BOARD IN PROCESS OF CONSTRUCTION.]
+
+[Illustration: FIG. 20. FINISHED REFLECTOR. HARD PLASTER ON WIRE LATH.]
+
+_Sabine’s Method._--The time of reverberation was determined by
+Sabine’s method. An organ pipe making approximately 526 vibrations a
+second was blown for about three seconds and then stopped. An auditor
+listened to the decreasing sound, and when it died out made a record
+electrically on a chronograph drum. The time of reverberation was found
+to be 5.90 seconds, this being the mean of 19 sets of measurements,
+each of about 20 observations. The reverberation was found also by
+calculation from Sabine’s equation (see Section III), taking the
+volume of the Auditorium as 11,800 cubic meters and calculating the
+absorbing power of all the surfaces in the room. This calculation gave
+6.4 seconds. The agreement between the two results is as close as could
+be expected, since neither the intensity of the sound nor the pitch
+used by the author was the same as those used by Professor Sabine, and
+both of these factors affect the time of reverberation.
+
+[Illustration: FIG. 21. PARABOLIC REFLECTOR SHOWING ITS ACTION ON
+SOUND.]
+
+[Illustration: FIG. 22. PHOTOGRAPH OF PARABOLIC REFLECTOR.]
+
+Several years later the time of reverberation was again determined
+after certain changes had been made. A thick carpet had been placed
+on the stage, heavy velour curtains 18 by 32 feet in area hung on the
+wall at the rear of the stage, a large canvas painting 400 square feet
+in area was installed, and the glass removed from the skylight in the
+ceiling. The time of reverberation was reduced to 4.8 seconds. With an
+audience present this value was reduced still more, and when the hall
+was crowded at commencement time the reverberation was not troublesome.
+
+_Method of Eliminating Echoes._--Although the time of reverberation
+was reduced to be fairly satisfactory, as just explained, the echoes
+still persisted, and were very annoying. Attempts were made to reduce
+individual echoes by hanging cotton flannel on the walls at critical
+points. Thus the shaded areas in Fig. 17 were covered and also the
+entire rear wall in the balcony. Pronounced echoes still remained, and
+it was evident that some drastic action was necessary to alleviate this
+condition. Four large canvases, shown in Figs. 23 and 24, were then
+hung in the dome in position suggested by the results of the diagnosis.
+A very decided improvement followed. For the first time the echoes were
+reduced to a marked degree and speakers on the stage could talk without
+the usual annoyance. This arrangement eliminated the echoes not only on
+the stage, but generally all over the house. A number of minor echoes
+were still left, but the conditions were much improved, especially when
+a large audience was present to reduce the reverberation.
+
+_Proposed Final Cure._--The state of affairs just described is the
+condition at the time of writing. Two propositions were considered in
+planning the final cure. One proposition involved a complete remodeling
+of the interior of the Auditorium. Plans of an interior were drawn
+in accordance with the results of the experimental work that would
+probably give satisfactory acoustics. This proposition was not carried
+out because of the expense and because it was thought desirable to
+attempt a cure without changing the shape of the room. The latter
+plan is the one now being followed. It is proposed to replace the
+present unsightly curtains with materials which will conform to the
+architectural features of the Auditorium and which will have a pleasing
+color scheme. At the same time, it will be necessary to hold to the
+features which have improved the acoustics.
+
+[Illustration: FIG. 23. PHOTOGRAPH OF TWO OF THE CANVAS CURTAINS IN THE
+DOME OF THE AUDITORIUM. NOTE ALSO THE ABSORBING MATERIALS UNDER THE
+ARCHES.]
+
+[Illustration: FIG. 24. PHOTOGRAPH OF DOME OF AUDITORIUM SHOWING THE
+CANVASES INSTALLED TO ELIMINATE ECHOES.]
+
+
+
+
+V. BIBLIOGRAPHY OF PUBLICATIONS ON ACOUSTICS OF AUDITORIUMS.
+
+
+_Auerbach, F._ “Akustik.” Winkelmann’s Handbuch der Physik, Vol. II,
+1909. An encyclopædia of acoustics, the following topics applying
+to the subject in hand: “Akustik der Gebäude,” pp. 580–584, with
+references. “Nachhall und Echo,” pp. 565–569, with references.
+
+_Blackall, C. H._ “Acoustics of Audience Halls,” Engineering Record,
+Vol. 45, pp. 541–542, 1902. A paper recording the opinions of the
+author with many references to acoustical properties of particular
+audience halls.
+
+_Cornelison, R. W._ “The Acoustical Properties of Rooms Particularly as
+Affected by Wall Coverings,” 1905. A pamphlet describing the merits of
+“Fabrikona” burlap as a sound absorber. H. B. Wiggin’s Sons Company,
+Bloomfield, N. J.
+
+_Eichhorn, A._ “Die Akustik Grosser Raüme nach Altgriechischer
+Theorie.” Ernst and Korn, Publishers, Berlin, 1888. A discussion of
+Greek buildings and acoustics, with applications to modern conditions.
+
+_Eichhorn, A._ “Der Akustische Masstab für die Projectbearbeitung
+Grosser Innen Raüme.” Published by Schuster and Bufleb, Berlin, 1899. A
+continuation of the previous work.
+
+_Exner, S._ “Uber die Akustik von Hörsälen und ein Instrument,
+sie zu bestimmen.” Zeitschrift des Osterreichischen Ingenieur und
+Architekten-Vereines, Vol. LVII, p. 141, March, 1905. Indicates his
+opinion of good acoustical properties in a hall. Gives experimental
+determination of reverberation.
+
+_Fournier, Lucien._ “The Suppression of Echoes.” La Nature (Paris),
+April 24, 1909. English translation given in “The Literary Digest,” New
+York, May 29, 1909, p. 924. An account of the experiments of Gustav
+Lyon in investigating the echoes in Trocadero Hall in Paris.
+
+_Franklin, W. S._ “Derivation of Equation of Decaying Sound in a Room
+and Definition of Open Window Equivalent of Absorbing Power.” Physical
+Review, Vol. 16, pp. 372–374, 1903. A theoretical development of the
+formula found experimentally by Sabine.
+
+_Haege._ “Bemerkungen über Akustik.” Zeitschrift für Baumesen, Vol. IX,
+pp. 582–594, 1859.
+
+_Henry, Joseph._ “Acoustics Applied to Public Buildings,” Smithsonian
+Report, 1856, p. 221.
+
+_Hoyt, J. T. N._ “The Acoustics of the Hill Memorial Hall,” American
+Architect, Vol. CIV, pp. 50–53, August 6, 1913. Discusses the design of
+the hall and indicates how it fulfills his ideas of good acoustics.
+
+_Hutton, W. R._ “Architectural Acoustics; Hall of Representatives,
+U. S. Capitol, 1853.” Engineering Record, Vol. 42, p. 377, 1900. A
+discussion of the cure of the faulty acoustics in the U. S. Hall of
+Representatives.
+
+_Jacques, W. W._ “Effect of the Motion of the Air Within an Auditorium
+Upon Its Acoustical Qualities.” Philosophical Magazine (5), Vol. 7,
+p. III, 1879. A record of experiments in the Baltimore Academy of
+Music showing that the ventilating current had a marked action on the
+acoustics.
+
+_Jager, S._ “Zur Theorie des Nachhals,” Sitzungsberichten der Kaiserl.
+Akademie der Wissenschaften in Wien. Matem.-naturw. Klasse; Bd. CXX,
+Abt. Ha, Mai, 1911. An important paper giving a theoretical development
+of Sabine’s formula showing the factors that enter into the constants.
+Considers also the case of the reflection of sound from a thin wall and
+also the case when it encounters a porous material such as a curtain.
+
+_Lamb, Horace._ “The Dynamical Theory of Sound.” Published by Edward
+Arnold, London, 1910. A more elementary treatment than Rayleigh’s
+“Theory of Sound.”
+
+_Marage._ “Qualites acoustiques de certaines sailes pour la voix
+parlée.” Comptes Rendus, Vol. 142, p. 878, 1906. An investigation of
+the acoustical properties of six halls in Paris.
+
+_Norton, C. L._ “Soundproof Partitions.” Insurance Engineering, Vol.
+4, p. 180, 1902. An account of experimental tests of the soundproof
+qualities of materials that are also fireproof.
+
+_Orth, A._ “Die Akustik Grosser Raüme mit Speciallem Bezug auf
+Kirchen.” Zeitschrift für Bauwesen. Also reprint by Ernst and Korn,
+Berlin, 1872. Assumes that sound waves behave like light waves.
+Discusses, with detailed drawings, the paths of sound in the Zion
+Church in Berlin and the Nicolai Church in Potsdam. Also gives his
+opinion of the effect of surfaces and materials on sound.
+
+_Rayleigh, Lord._ “Theory of Sound.” Two volumes, Macmillan, 1896.
+The unsurpassed classic in the subject of acoustics. References to
+architectural acoustics as follows: “Whispering Galleries,” Vol. II, §
+287. “Passage of Sound Through Fabrics,” Vol. II, p. 311. “Resonance in
+Buildings,” Vol. II, § 252.
+
+_Sabine, Wallace C._ “Architectural Acoustics.” Engineering Record,
+1900, Vol. 1, pp. 349, 376, 400, 426, 450, 477, 503. Published also
+in book form and in American Architect, Vol. 68, 1900, pp. 3, 19, 35,
+43, 59, 75, 83. An important series of articles giving the relation
+between the time of reverberation in a room, the volume of the room,
+and absorbing materials present. Gives table of absorbing powers
+of substances, so that an architect can calculate in advance of
+construction what the time of reverberation will be.
+
+_Sabine, W. C._ “Architectural Acoustics,” Proc. of the Amer. Acad.
+of Arts and Sciences, Vol. XLII, No. 2, June, 1906. A continuation of
+the previous work, showing the accuracy of musical taste in regard to
+architectural acoustics and also the variation in reverberation with
+variation in pitch.
+
+_Sabine, W. C._ “Architectural Acoustics,” Engineering Record, Vol. 61,
+pp. 779–781, June 18, 1910. Discusses the case of flow of air in a room
+and its effect on the acoustics. Concludes that the usual ventilation
+system in a hall has very little effect.
+
+_Sabine, W. C._ “Architectural Acoustics: The Correction of Acoustical
+Difficulties.” The Architectural Quarterly of Harvard University,
+March, 1912, pp. 3–23. An account of the cures of the acoustical
+difficulties of a number of audience rooms, also a description of
+further experiments on the absorbing power of different materials.
+
+_Sabine, W. C._ “Theater Acoustics.” American Architect, Vol. CIV, pp.
+257–279, December 31, 1913. Describes theater with model acoustics.
+Discusses behavior of sound in a room and shows photographs of sound
+waves in miniature rooms.
+
+_Sabine, W. C._ “Architectural Acoustics. Building Material and
+Musical Pitch.” The Brickbuilder, Vol. 23, pp. 1–6, January, 1914. A
+continuation of previous work, describing absorbing powers of different
+materials.
+
+_Sharpe, H. J._ “Reflection of Sound at a Paraboloid.” Camb. Phil. Soc.
+Proc., Vol. 15, pp. 190–197, 1909.
+
+_Stewart, G. W._ “Architectural Acoustics.” Sibley Journal of
+Engineering, May, 1903. Published by Cornell University, Ithaca, N. Y.
+An account of an investigation leading to the cure of the acoustics of
+Sibley Auditorium.
+
+_Sturmhöfel, A._ “Akustik des Baumeisters.” Published by Schuster
+and Bufleb, Berlin, 1894. An 87-page pamphlet on the acoustics of
+rooms. Discusses effects of relief work in rooms on sound. Account of
+experimental work. References to auditoriums.
+
+_Tallant, Hugh._ “Hints on Architectural Acoustics.” The Brickbuilder,
+Vol. 19, 1910, pp. 111, 155, 199, 243, 265. A series of articles
+giving an exposition of the principles of the subject with practical
+applications.
+
+_Tallant, Hugh._ “Acoustical Design in the Hill Memorial Auditorium,
+University of Michigan.” The Brickbuilder, Vol. XXII, p. 169, August,
+1913. See also plates 113, 114, 115. A discussion of the acoustical
+results obtained in this auditorium, a special feature being the action
+of a huge parabolic reflecting wall surface over the stage.
+
+_Tallant, Hugh._ “Architectural Acoustics. The Effect of a Speaker’s
+Voice in Different Directions.” The Brickbuilder, Vol. 22, p. 225,
+October, 1913.
+
+_Taylor, H. O._ “A Direct Method of Finding the Value of Materials as
+Sound Absorbers.” Physical Review, Vol. 2 (2), p. 270, October, 1913.
+
+_Tufts, F. L._ “Transmission of Sound Through Porous Materials.” Amer.
+Journal of Science, Vol. II, p. 357, 1901. Experimental work leading to
+the conclusion that sound is transmitted through porous materials in
+the same proportion that a current of air is.
+
+_Watson, F. R._ “Echoes in an Auditorium.” Physical Review, Vol. 32,
+p. 231, 1911. An abstract giving an account of the experiments in the
+auditorium at the University of Illinois.
+
+_Watson, F. R._ “Inefficiency of Wires as a Means of Curing Defective
+Acoustics of Auditoriums.” Science, Vol. 35, p. 833, 1912.
+
+_Watson, F. R._ “The Use of Sounding Boards in an Auditorium.” Physical
+Review, Vol. 1 (2), p. 241, 1913. Also a more complete article in The
+Brickbuilder, June, 1913.
+
+_Watson, F. R._ “Air Currents and the Acoustics of Auditoriums.”
+Engineering Record, Vol. 67, p. 265, 1913. A detailed account giving
+theory and experimental work, with application to ventilating systems
+in auditoriums.
+
+_Watson, F. R._ “Acoustical Effect of Fireproofed Cotton-Flannel Sound
+Absorbers.” Engineering News, Vol. 71, p. 261, January 29, 1914.
+Results of experiments showing that cotton-flannel has practically the
+same absorbing power after fireproofing as before.
+
+_Weisbach, F._ “Versuche über Schalldurchlassigkeit, Schallreflexion
+und Schallabsorbtion.” Annalen der Physik, Vol. 33, p. 763, 1910.
+
+_Williams, W. M._ “Echo in Albert Hall.” Nature, Vol. 3, p. 469,
+1870–71. Observations on the shape of Albert Hall in London and the
+echoes set up.
+
+_Editorial Notice._ “The Dresden Laboratory for Architectural
+Acoustics.” American Architect, Vol. 102, p. 137, October 16, 1912.
+States that a laboratory of applied acoustics is authorized in the
+Dresden (Germany) Technische Hochschule, and that expert advice will
+be furnished architects and others regarding problems of acoustics of
+auditoriums.
+
+
+
+
+THE UNIVERSITY OF ILLINOIS
+
+THE STATE UNIVERSITY
+
+Urbana
+
+EDMUND J. JAMES, Ph. D., LL. D., President
+
+
+The University includes the following departments:
+
+  =The Graduate School=
+
+  =The College of Liberal Arts and Sciences= (Ancient and Modern
+    Languages and Literatures; History, Economics and Accountancy,
+    Political Science, Sociology; Philosophy, Psychology, Education;
+    Mathematics; Astronomy; Geology; Physics; Chemistry; Botany,
+    Zoology, Entomology; Physiology; Art and Design; Ceramics)
+
+  =The College of Engineering= (Architecture; Architectural, Civil,
+    Electrical, Mechanical, Mining, Municipal and Sanitary, and Railway
+    Engineering)
+
+  =The College of Agriculture= (Agronomy; Animal Husbandry; Dairy
+    Husbandry; Horticulture and Landscape Gardening; Veterinary
+    Science; Agricultural Extension; Teachers’ Course; Household
+    Science)
+
+  =The College of Law= (Three years’ course)
+
+  =The School of Education=
+
+  =The Courses in Business= (General Business; Banking; Accountancy;
+    Railway Administration; Insurance)
+
+  =The Course in Journalism=
+
+  =The Courses in Chemistry and Chemical Engineering=
+
+  =The Courses in Ceramics and Ceramic Engineering=
+
+  =The School of Railway Engineering and Administration=
+
+  =The School of Music= (four years’ course)
+
+  =The School of Library Science= (two years’ course)
+
+  =The College of Medicine= (in Chicago)
+
+  =The College of Dentistry= (in Chicago)
+
+  =The School of Pharmacy= (in Chicago; Ph. G. and Ph. C. courses)
+
+  =The Summer Session= (eight weeks)
+
+  =Experiment Stations=: U. S. Agricultural Experiment Station;
+    Engineering Experiment Station; State Laboratory of Natural
+    History; State Entomologist’s Office; Biological Experiment Station
+    on Illinois River; State Water Survey; State Geological Survey;
+    Mine Rescue Station
+
+    The _library collections_ contain (May 1, 1914), 295,000 volumes,
+      including the library of the State Laboratory of Natural History,
+      the Quine Medical Library and the library of the School of
+      Pharmacy.
+
+For _catalogs and information_ address
+
+                                                _THE REGISTRAR_
+                                                      _Urbana, Illinois_
+
+
+
+
+FOOTNOTES
+
+
+  [1] “Theory of Sound,” Vol. II, p. 316.
+
+  [2] “Theory of Sound,” Vol. II, § 351.
+
+  [3] “Dynamical Theory of Sound,” p. 196.
+
+  [4] “Theory of Sound,” p. 333.
+
+  [5] “Architectural Acoustics.” A series of articles in the
+      Engineering Record, 1900; also the American Architect, 1900.
+
+  [6] “Architectural Acoustics,” Proc. of Amer. Acad. of Arts and
+      Sciences. Vol. 42, pp. 49–84, 1906.
+
+  [7] G. W. Stewart. “Architectural Acoustics,” Sibley Journal of
+      Engineering, May, 1903. Published by Cornell University, Ithaca,
+      N. Y.
+
+  [8] “Qualités acoustiques de certaines salles pour la voix parlée.”
+      Comptes Rendus, 142, 878, 1906.
+
+  [9] W. S. Franklin. “Derivation of Equation of Decaying Sound in
+      a Room and Definition of Open Window Equivalent of Absorbing
+      Power.” Physical Review, Vol. 16, pp. 372–374, 1903.
+
+ [10] G. Jäger. “Zur Theorie des Nachhalls.” Sitzungsberichte der
+      Kaiserliche Akad. der Wissenschaften in Wien, Math-naturw.
+      Klasse; Bd. CXX. Abt. 11 a. Mai, 1911.
+
+ [11] Science, Vol. 35, p. 833, 1912.
+
+ [12] Arch. Quarterly of Harvard University, March, 1912.
+
+ [13] Osborne Reynolds. Proc. of Royal Soc., Vol. XXII, p. 531, 1874.
+
+ [14] Joseph Henry, “Report of the Lighthouse Board of the United
+      States for the year 1874.”
+
+      J. Tyndall, Phil. Trans., 1874.
+
+ [15] Sabine, Engineering Record, Vol. 61, p. 779, 1910. Watson,
+      Engineering Record, Vol. 67, p. 265, 1913.
+
+ [16] Sabine and Watson. Ibid.
+
+ [17] La Nature (Paris), April 24, 1909.
+
+ [18] Rayleigh “Theory of Sound,” Vol. II, § 283.
+
+ [19] Rayleigh, ibid, 283.
+
+
+
+
+Transcriber’s Notes
+
+
+Punctuation, hyphenation, and spelling of English words were made
+consistent when a predominant preference was found in the original
+book; otherwise they were not changed. The spellings of non-English
+words were not changed.
+
+Simple typographical errors were corrected; unbalanced quotation
+marks were remedied when the change was obvious, and otherwise left
+unbalanced.
+
+Illustrations in this eBook have been positioned between paragraphs
+and outside quotations. In versions of this eBook that support
+hyperlinks, the page references in the List of Illustrations lead to
+the corresponding illustrations.
+
+Footnotes have been sequentially numbered and placed together at the
+end of the book.
+
+*** END OF THE PROJECT GUTENBERG EBOOK ACOUSTICS OF AUDITORIUMS ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg™ electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+• You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg™ trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, “Information about donations to the Project Gutenberg
+  Literary Archive Foundation.”
+
+• You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+• You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+• You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you “AS-IS”, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
