@@ -1,4 +1,4 @@
-This project was made to analyse the frequency of characters used by authors in various languages.
+This project was made to analyse the frequency of characters used by authors in various languages. Originally made as a school project in 2023.
 
 It produces graphs comparing authors in each language and even comparisons across languages
 This is done through a webscraper to download and store books from [Project Gutenberg](https://www.gutenberg.org/) in different languages
